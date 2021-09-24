@@ -1,5 +1,4 @@
 annual_salary = float(input("Enter your annual salary: "))
-month_salary = annual_salary / 12
 portion_saved = float(input("Enter the percent of your salary to save, \
 as a decimal: "))
 monthly_saving = annual_salary / 12 * portion_saved
